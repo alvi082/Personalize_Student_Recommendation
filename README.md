@@ -67,8 +67,7 @@ python main.py
 
 ## Screenshots
 ![Accuracy Distribution](Accuracy.png)
-![Weak Topics](weak_topics.png)
-![Rank Prediction](Predicted Rank vs Accuracy.png)
+![Rank Prediction](PredictedRankvsAccuracy.png)
 
 ## Demo Video
 📹 **[Link to Demo Video](#)** (2-5 min explaining script & outputs)
