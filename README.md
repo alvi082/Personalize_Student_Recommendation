@@ -66,7 +66,7 @@ python main.py
 ```
 
 ## Screenshots
-![Accuracy Distribution](accuracy_distribution.png)
+![Accuracy Distribution](Accuracy.png)
 ![Weak Topics](weak_topics.png)
 ![Rank Prediction](rank_prediction.png)
 
