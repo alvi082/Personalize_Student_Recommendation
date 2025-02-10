@@ -50,17 +50,18 @@ python main.py
 - **Personalized Recommendations**
 ```json
 {
-  "student_1": {
+  "YcDFSO4ZukTJnnFMgRNVwZTE4j42": {
     "message": "Improve accuracy! Focus on these topics:",
-    "topics": ["Physics", "Organic Chemistry"]
+    "topics": [
+      "General Practice"
+    ]
   }
 }
 ```
 - **Predicted NEET Rank**
 ```json
 {
-  "student_1": 1200,
-  "student_2": 850
+  "YcDFSO4ZukTJnnFMgRNVwZTE4j42": 1000
 }
 ```
 
