@@ -70,7 +70,7 @@ python main.py
 ![Rank Prediction](PredictedRankvsAccuracy.png)
 
 ## Demo Video
-📹 **[Link to Demo Video](#)** (2-5 min explaining script & outputs)
+📹 **[Link to Demo Video](video3805383979.mp4)** (2-5 min explaining script & outputs)
 
 ## Future Enhancements
 - Improve **NEET rank prediction model** with more features.
